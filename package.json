@@ -5,7 +5,7 @@
     "description": "A simple content management system!",
     "unity": "2018.1",
     "dependencies": {
-        "com.mackysoft.serializereference-extensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git#v1.6.1"
+        "com.mackysoft.serializereference-extensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git?path=Assets/MackySoft/MackySoft.SerializeReferenceExtensions"
     },
     "author": {
         "name": "xk",
