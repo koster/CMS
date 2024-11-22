@@ -1,0 +1,15 @@
+{
+    "name": "com.xk.cms",
+    "version": "1.0.1",
+    "displayName": "CMS",
+    "description": "A simple content management system!",
+    "unity": "2018.1",
+    "dependencies": {
+        "com.mackysoft.serializereference-extensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git?path=Assets/MackySoft/MackySoft.SerializeReferenceExtensions#1.6.1"
+    },
+    "author": {
+        "name": "xk",
+        "email": "itiskoster@gmail.com",
+        "url": "https://www.twitch.tv/xkoster"
+    }
+}
