@@ -4,7 +4,7 @@ using Common;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-public static class CMS
+public partial static class CMS
 {
     static CMSTable<CMSEntity> all = new CMSTable<CMSEntity>();
     
@@ -129,7 +129,7 @@ public class CMSTable<T> where T : CMSEntity, new()
     }
 }
 
-public class CMSEntity
+public partial class CMSEntity
 {
     public string id;
 
