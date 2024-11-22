@@ -4,7 +4,7 @@ using Common;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-public partial static class CMS
+public static class CMS
 {
     static CMSTable<CMSEntity> all = new CMSTable<CMSEntity>();
     
