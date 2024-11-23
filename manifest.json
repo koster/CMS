@@ -10,6 +10,6 @@
   ],
   "dependencies": {
     "com.xk.cms": "https://github.com/koster/CMS.git",
-    "com.mackysoft.serializereferenceextensions": "1.6.1"
+    "com.mackysoft.serializereferenceextensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git#upm"
   }
 }
