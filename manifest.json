@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "com.mackysoft.serializereference-extensions": "1.6.1"
+    "com.mackysoft.serializereferenceextensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git#upm"
   }
 }
