@@ -1,5 +1,15 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "OpenUPM",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.mackysoft"
+      ]
+    }
+  ],
   "dependencies": {
-    "com.mackysoft.serializereferenceextensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git#upm"
+    "com.xk.cms": "https://github.com/koster/CMS.git",
+    "com.mackysoft.serializereferenceextensions": "1.6.1"
   }
 }
