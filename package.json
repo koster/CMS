@@ -7,6 +7,13 @@
     "dependencies": {
         "com.mackysoft.serializereferenceextensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git#upm"
     },
+    "scopedRegistries": [{
+        "name": "OpenUPM",
+        "url": "https://package.openupm.com",
+        "scopes": [
+            "com.mackysoft"
+        ]
+    }],
     "author": {
         "name": "xk",
         "email": "itiskoster@gmail.com",
