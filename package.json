@@ -5,15 +5,8 @@
     "description": "A simple content management system!",
     "unity": "2020.1",
     "dependencies": {
-        "com.mackysoft.serializereferenceextensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git#upm"
+        "com.mackysoft.serializereferenceextensions": "1.6.1"
     },
-    "scopedRegistries": [{
-        "name": "OpenUPM",
-        "url": "https://package.openupm.com",
-        "scopes": [
-            "com.mackysoft"
-        ]
-    }],
     "author": {
         "name": "xk",
         "email": "itiskoster@gmail.com",
