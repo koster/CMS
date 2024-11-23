@@ -7,14 +7,13 @@
     "dependencies": {
         "com.mackysoft.serializereference-extensions": "1.6.1"
     },
-    "scopedRegistries": [
-    {
+    "scopedRegistries": [{
       "name": "OpenUPM",
       "url": "https://package.openupm.com",
       "scopes": [
         "com.mackysoft"
       ]
-    },
+    }],
     "author": {
         "name": "xk",
         "email": "itiskoster@gmail.com",
