@@ -129,7 +129,7 @@ public class CMSTable<T> where T : CMSEntity, new()
     }
 }
 
-public class CMSEntity
+public partial class CMSEntity
 {
     public string id;
 
