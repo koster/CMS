@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 #if MACKYSOFT_SUBCLASSSELECTOR
-using MackySoft.SerializeReferenceExtensions;
+// using MackySoft.SerializeReferenceExtensions;
 #endif
 
 public class CMSEntityPfb : MonoBehaviour

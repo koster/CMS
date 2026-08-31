@@ -14,7 +14,7 @@
     "versionDefines": [
         {
             "name": "com.mackysoft.serializereference-extensions",
-            "expression": "[1.0.0,)",
+            "expression": "1.0.0",
             "define": "MACKYSOFT_SUBCLASSSELECTOR"
         }
     ],
